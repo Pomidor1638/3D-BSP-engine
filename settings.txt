@@ -1,0 +1,13 @@
+width=640
+height=480
+fullscreen=1
+player_pos=|0 0 100.75|
+player_angle=|0 0 315|
+player_speed=10
+player_delta_angle=60
+FOV=90
+far_plane=10000
+guros=0.5
+guros_k0=0.5
+
+(Это настройки для запуска. Не трогайте лишний раз и не ставьте лишние пробелы)
